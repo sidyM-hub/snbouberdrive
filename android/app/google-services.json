@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203288619660",
+    "project_id": "appdriver-aade5",
+    "storage_bucket": "appdriver-aade5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203288619660:android:281f71e46d93e6b9bf29a9",
+        "android_client_info": {
+          "package_name": "com.taxidrivertornadoes.drivertornadoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtVmd5fz6hREvahFjHVB0aeHhBonzh-zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
